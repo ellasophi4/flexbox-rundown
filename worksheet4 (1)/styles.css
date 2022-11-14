@@ -114,3 +114,10 @@ li {
     border-radius: 10px;
     background-color: aliceblue;
 }
+.section-two {
+    background-color: orangered;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
