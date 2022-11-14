@@ -141,3 +141,8 @@ figcaption {
     flex: 1;
     padding: 10px;
 }
+.mediacontent {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;
+    font-size: 20px;
+}
