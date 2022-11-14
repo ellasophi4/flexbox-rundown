@@ -65,6 +65,9 @@ header {
 .section-three {
     background-color: lightcoral;
     height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -121,7 +124,4 @@ li {
     align-items: center;
     justify-content: center;
 }
-.section-three {
-    align-items: center;
-    justify-content:center;
-}
+
