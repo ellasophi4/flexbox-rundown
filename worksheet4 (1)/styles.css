@@ -126,4 +126,8 @@ li {
     align-items: center;
     justify-content: center;
 }
+.pictitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
 
+}
